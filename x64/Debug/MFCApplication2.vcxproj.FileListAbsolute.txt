@@ -1,0 +1,4 @@
+C:\Users\Damir\Documents\University\3семестр\programming\MFCApplication2\x64\Debug\MFCApplication2.exe
+C:\Users\Damir\Documents\University\semestr3\programming\MFCApplication2\x64\Debug\MFCApplication2.exe
+C:\Users\BonBaton\Documents\Projects\VS\MFCApplication2\x64\Debug\MFCApplication2.exe
+C:\Users\BonBaton\Documents\Projects\VS\RandomBallsMFC\x64\Debug\MFCApplication2.exe

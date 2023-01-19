@@ -1,0 +1,4 @@
+﻿  MFCApplication2Doc.cpp
+C:\Users\CADExp\source\repos\MFCApplication2\MFCApplication2Doc.cpp(37,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\CADExp\source\repos\MFCApplication2\MFCApplication2Doc.cpp(46,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MFCApplication2.vcxproj -> C:\Users\CADExp\source\repos\MFCApplication2\Debug\MFCApplication2.exe
